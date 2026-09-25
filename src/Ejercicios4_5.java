@@ -14,8 +14,6 @@ public class Ejercicios4_5 {
         ejercicio2(sc);
         ejercicio3();
         ejercicio4();
-
-        sc.close();
     }
 
     public static void ejercicio1() {
