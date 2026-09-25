@@ -15,8 +15,6 @@ public class EjerciciosAmpliacion {
         contarLineasFichero(sc);
         mostrarInverso(sc);
         guardarInverso(sc);
-
-        sc.close();
     }
 
     public static void guardarFrases(Scanner sc) throws IOException {
